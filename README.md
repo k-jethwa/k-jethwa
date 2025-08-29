@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hey, I'm Kaavya. Check out my work!
 
 <!--
 **k-jethwa/k-jethwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
