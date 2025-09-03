@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 📊 GitHub Highlights
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=k-jethwa&layout=compact&theme=radical&card_width=400" alt="Top Languages" height="150"/>
