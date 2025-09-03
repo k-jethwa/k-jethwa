@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 ## 📊 GitHub Highlights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=k-jethwa&layout=compact&theme=radical" alt="Top Languages" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=k-jethwa&layout=compact&theme=radical&card_width=400" alt="Top Languages" height="150"/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=k-jethwa&theme=radical" alt="GitHub Streak" height="150"/>
 </p>
