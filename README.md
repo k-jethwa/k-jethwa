@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=k-jethwa&layout=compact&theme=rose&card_width=400" alt="Top Languages" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=k-jethwa&theme=date_night" alt="GitHub Streak" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=k-jethwa&layout=compact&theme=catppuccin_latte&card_width=400" alt="Top Languages" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=k-jethwa&theme=catppuccin_latte" alt="GitHub Streak" height="150"/>
 </p>
