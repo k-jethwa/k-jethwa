@@ -15,13 +15,23 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## &#x1f4c8; GitHub Stats
+## 📈 GitHub Stats
 
-<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=k-jethwa&show_icons=true&locale=en&layout=compact&theme=radical" alt="k-jethwa" /></p>
-
- 
- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=k-jethwa&theme=radical" alt="arunsridher" /></p>
- 
- <br />
- 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=k-jethwa&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true) 
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=k-jethwa&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=k-jethwa&layout=compact&theme=algolia" alt="Top languages" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=k-jethwa&theme=highcontrast" alt="GitHub streak" />
+    </td>
+    <td>
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=k-jethwa&bg_color=0d1117&color=58a6ff&line=38ef7d&point=ffffff&area=true&hide_border=true" alt="Activity graph" />
+    </td>
+  </tr>
+</table>
