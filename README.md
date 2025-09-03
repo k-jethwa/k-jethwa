@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=k-jethwa&layout=compact&theme=aura_dark&card_width=400" alt="Top Languages" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=k-jethwa&theme=aura_dark" alt="GitHub Streak" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=k-jethwa&theme=aura_dark" alt="GitHub Streak" height="150"/>
 </p>
